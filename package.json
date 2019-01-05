@@ -25,7 +25,7 @@
     "chai": "^4.1.2",
     "github-version-checker": "^1.2.0",
     "homebridge-platform-helper": "1.1.3",
-    "node-appletv": "git+https://github.com/socalrds/node-appletv.git",
+    "node-appletv": "git+https://github.com/socalrds/node-appletv.git#31386535261cf",
     "prompt": "^1.0.0",
     "uuid": "^3.2.1"
   },
